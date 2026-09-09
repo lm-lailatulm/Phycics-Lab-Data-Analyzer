@@ -1,0 +1,6 @@
+{
+  "name": "Physics Lab Data Analyzer",
+  "description": "Aplikasi otomatis analisis data praktikum fisika dasar (gravitasi, pegas, cepat rambat bunyi, tegangan permukaan) lengkap dengan regresi linear, ralat ketelitian, dan grafik interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
